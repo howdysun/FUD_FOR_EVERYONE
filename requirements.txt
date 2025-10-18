@@ -1,0 +1,13 @@
+# Solana Token Buyer & Distributor Requirements
+# Python 3.11+
+
+# Solana libraries
+solana==0.34.3
+solders==0.21.0
+spl-token==0.2.0
+
+# HTTP client for Jupiter API
+aiohttp==3.10.10
+
+# Type hints support
+typing-extensions==4.12.2

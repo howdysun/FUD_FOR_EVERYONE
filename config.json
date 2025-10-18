@@ -1,0 +1,8 @@
+{
+  "private_key": "YOUR PRIVATE KEY",
+  "token_mint": "THE TOKEN MINT YOU WANT TO BUY",
+  "sol_amount": 0.000001,
+  "top_holders_count": 3,
+  "rpc_url": "THE RPC URL YOU WANT TO USE",
+  "blacklist": ["THE BLACKLISTED ADDRESSES YOU WANT TO EXCLUDE FOR EXAMPLE CEX ADDRESSES"]
+}
